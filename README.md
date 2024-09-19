@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td>
-                <h1><b>Trabajo Final</b></h1>
+                <h1><b>Trabajo Final - Agregar nombre del proyecto </b></h1>
             </td>
         </tr>
         <tr>
