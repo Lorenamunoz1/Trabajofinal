@@ -13,7 +13,7 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <h1><b>Trabajo Final - Agregar nombre del proyecto </b></h1>
             </td>
         </tr>
