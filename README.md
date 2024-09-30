@@ -70,32 +70,32 @@ Los integrantes del grupo deben definir su participación y responsabilidad medi
 *   ### Alcance
 >Este procedimiento aplica a todos los estudiantes vinculados a un equipo para la entrega del trabajo final.
 
->*  #### Definiciones (Entregables)
->>*   **Acta de Entendimiento:** Documento que detalla los objetivos comunes del grupo y las expectativas de cada miembro respecto al proyecto.
+## Definiciones (Entregables)
+>*   Acta de Entendimiento: Documento que detalla los objetivos comunes del grupo y las expectativas de cada miembro respecto al proyecto.
 
->>*   **Acta de Colaboración:** Documento que especifica las metodologías de trabajo en equipo, incluyendo estrategias de comunicación y resolución de conflictos.
+>*   Acta de Colaboración: Documento que especifica las metodologías de trabajo en equipo, incluyendo estrategias de comunicación y resolución de conflictos.
 
->>*   **Acta de Responsabilidad:** Documento que asigna tareas específicas a cada miembro del grupo, estableciendo plazos y criterios de evaluación.
+>*   Acta de Responsabilidad: Documento que asigna tareas específicas a cada miembro del grupo, estableciendo plazos y criterios de evaluación.
 
-# **Procedimientos (Entregables)**
+## Procedimientos (Entregables)
 
->>*   **Convocatoria de Reunión:** El grupo deberá convocar a una reunión inicial para discutir los objetivos del proyecto y elaborar el Acta de Entendimiento.
+>*   **Convocatoria de Reunión:** El grupo deberá convocar a una reunión inicial para discutir los objetivos del proyecto y elaborar el Acta de Entendimiento.
 
->>*   **Elaboración del Acta de Entendimiento:** Durante la reunión, los miembros del grupo discutirán y acordarán los objetivos y expectativas del proyecto. Esta acta será redactada por un miembro designado y luego revisada y firmada por todos los integrantes.
+>*   **Elaboración del Acta de Entendimiento:** Durante la reunión, los miembros del grupo discutirán y acordarán los objetivos y expectativas del proyecto. Esta acta será redactada por un miembro designado y luego revisada y firmada por todos los integrantes.
 
->>*   **Elaboración del Acta de Colaboración:** Posteriormente, se redactará el Acta de Colaboración, donde se definirán las normas de trabajo en equipo, incluyendo los canales y frecuencia de comunicación.
+>*   **Elaboración del Acta de Colaboración:** Posteriormente, se redactará el Acta de Colaboración, donde se definirán las normas de trabajo en equipo, incluyendo los canales y frecuencia de comunicación.
 
->>*   **Asignación de Responsabilidades:** Finalmente, se creará el Acta de Responsabilidad, detallando las tareas específicas de cada miembro, así como los plazos de entrega. Cada miembro del grupo deberá firmar este documento, aceptando sus responsabilidades.
+>*   **Asignación de Responsabilidades:** Finalmente, se creará el Acta de Responsabilidad, detallando las tareas específicas de cada miembro, así como los plazos de entrega. Cada miembro del grupo deberá firmar este documento, aceptando sus responsabilidades.
 
->*  #### Seguimiento y Evaluación (Entregables)
+## Seguimiento y Evaluación (Entregables)
 
->>*   **Reuniones de Seguimiento:** El grupo deberá realizar reuniones periódicas para evaluar el progreso del proyecto y hacer ajustes necesarios en las actas.
+>*   **Reuniones de Seguimiento:** El grupo deberá realizar reuniones periódicas para evaluar el progreso del proyecto y hacer ajustes necesarios en las actas.
 
->>*   **Revisión de Actas:** Las actas pueden ser revisadas y modificadas con el consentimiento de todos los miembros del grupo, según sea necesario para reflejar cambios en el proyecto o en la dinámica del equipo.
+>*   **Revisión de Actas:** Las actas pueden ser revisadas y modificadas con el consentimiento de todos los miembros del grupo, según sea necesario para reflejar cambios en el proyecto o en la dinámica del equipo.
 
->*  #### Resolución de Conflictos
+## Resolución de Conflictos
 
->>*   En caso de desacuerdos o conflictos, el grupo deberá referirse al Acta de Colaboración para resolver la situación mediante los mecanismos previamente acordados. Si no se llega a una resolución, se consultará con el del curso para mediación.
+>*   En caso de desacuerdos o conflictos, el grupo deberá referirse al Acta de Colaboración para resolver la situación mediante los mecanismos previamente acordados. Si no se llega a una resolución, se consultará con el del curso para mediación.
 
 # **Entregables**
 
@@ -122,7 +122,7 @@ Describir el proyecto en pocas líneas y asignarle un nombre con una foto repres
 
 **Asistec** 
 
-<img alt="Programacion" height="250px" src="https://i.ibb.co/9HyFj2x/Whats-App-Image-2024-09-29-at-12-50-22.jpg" alt="Whats-App-Image-2024-09-29-at-12-50-22" hspace="20px" vspace="0px">
+<img alt="Programacion" height="350px" src="https://i.ibb.co/9HyFj2x/Whats-App-Image-2024-09-29-at-12-50-22.jpg" alt="Whats-App-Image-2024-09-29-at-12-50-22" hspace="20px" vspace="0px">
             </td>
             <td align="center">
 
@@ -146,17 +146,17 @@ El software recibirá un listado de citas previamente asignadas por el sistema d
 
 # **Objetivos**
 
->>* Automatizar la gestión de turnos y reducir las esperas manuales.
->>* Mejorar la clasificación y priorización de los pacientes en función de sus citas.
->>* Crear un programa en consola que sea fácil de usar, registrando eficientemente el flujo de atención de los pacientes.
->>* Exportar la información de atención de los pacientes en un archivo CSV para su posterior revisión y almacenamiento.
+>* Automatizar la gestión de turnos y reducir las esperas manuales.
+>* Mejorar la clasificación y priorización de los pacientes en función de sus citas.
+>* Crear un programa en consola que sea fácil de usar, registrando eficientemente el flujo de atención de los pacientes.
+>* Exportar la información de atención de los pacientes en un archivo CSV para su posterior revisión y almacenamiento.
 
 # **Beneficios**
 
->>* Eficiencia en la atención: Reducir el tiempo de espera y con esto se mejorara la experiencia en la EPS.
->>* Priorización de pacientes: Asignación de citas de manera preferencial de acuerdo a la urgencia.
->>* Acceso a datos: Almacenamiento y exportación de los datos de los pacientes atendidos y esto facilitaria el análisis.
->>* Mejora en la organización: El personal de la EPS gestionara de manera más eficiente las citas, asegurando el control sobre la atención.
+>* Eficiencia en la atención: Reducir el tiempo de espera y con esto se mejorara la experiencia en la EPS.
+>* Priorización de pacientes: Asignación de citas de manera preferencial de acuerdo a la urgencia.
+>* Acceso a datos: Almacenamiento y exportación de los datos de los pacientes atendidos y esto facilitaria el análisis.
+>* Mejora en la organización: El personal de la EPS gestionara de manera más eficiente las citas, asegurando el control sobre la atención.
 
 ## **6.	Especificación de requisitos**
 
@@ -166,28 +166,28 @@ Describe los requisitos funcionales y no funcionales del software.
 
 **Requisitos Funcionales**
 
->>* El software debe registrar la llegada de los pacientes según el listado de citas proporcionado por el sistema de la EPS.
->>* Debe permitir añadir pacientes de última hora que no estén en el listado inicial.
->>* El sistema debe clasificar a los pacientes según el tipo de cita (urgencia, consulta general, especializada) y asignar prioridades según el criterio predefinido.
->>* El programa debe registrar el recorrido de los pacientes desde su llegada hasta su atención, registrando los tiempos de espera, consulta y salida.
->>* Debe actualizar el estado de cada paciente en el sistema a medida que avanza en el proceso.
->>* El software debe ser interactivo, permitiendo que los usuarios (personal de la EPS) puedan visualizar y gestionar las citas de forma clara en una interfaz basada en consola.
->>* El sistema debe registrar los datos de cada paciente atendido (nombre, cédula, tipo de cita, médico asignado, hora de llegada y salida) en un DataFrame.
->>* El software debe exportar el registro completo de las atenciones en un archivo CSV al finalizar la jornada o cuando sea solicitado.
->>* El programa debe gestionar dos documentos: Uno proporcionado por el repositorio inicial (listado de citas) y otro creado por los desarrolladores (estudiantes), (registro de pacientes atendidos).
+>* El software debe registrar la llegada de los pacientes según el listado de citas proporcionado por el sistema de la EPS.
+>* Debe permitir añadir pacientes de última hora que no estén en el listado inicial.
+>* El sistema debe clasificar a los pacientes según el tipo de cita (urgencia, consulta general, especializada) y asignar prioridades según el criterio predefinido.
+>* El programa debe registrar el recorrido de los pacientes desde su llegada hasta su atención, registrando los tiempos de espera, consulta y salida.
+>* Debe actualizar el estado de cada paciente en el sistema a medida que avanza en el proceso.
+>* El software debe ser interactivo, permitiendo que los usuarios (personal de la EPS) puedan visualizar y gestionar las citas de forma clara en una interfaz basada en consola.
+>* El sistema debe registrar los datos de cada paciente atendido (nombre, cédula, tipo de cita, médico asignado, hora de llegada y salida) en un DataFrame.
+>* El software debe exportar el registro completo de las atenciones en un archivo CSV al finalizar la jornada o cuando sea solicitado.
+>* El programa debe gestionar dos documentos: Uno proporcionado por el repositorio inicial (listado de citas) y otro creado por los desarrolladores (estudiantes), (registro de pacientes atendidos).
 
 **Requisitos No Funcionales**
 
->>* El software debe ser capaz de gestionar grandes volúmenes de datos sin retrasos.
->>* El tiempo de respuesta al agregar o modificar un paciente en el sistema debe ser inmediato.
->>* El sistema debe ser fácil de usar para el personal de la EPS, aún cuando no cuenten con conocimientos técnicos.
->>* La interfaz de consola debe ser clara y permitir la navegación intuitiva en cualquier funcionalidad del software.
->>* El sistema debe asegurar la integridad de los datos, evitando pérdidas de información durante el registro y la exportación de datos.
->>* Debe ser resistente a fallos, con mecanismos para manejar errores como la falta de conexión a los datos del repositorio o fallas en la exportación de archivos CSV.
->>* El software debe ser escalable para poder integrarse en un futuro con otros sistemas de la EPS.
->>* El programa debe ser compatible con diferentes versiones de Python y ejecutarse en distintos sistemas operativos (Windows, macOS, Linux) sin requerir configuraciones complejas.
->>* El código debe estar bien documentado y organizado para facilitar futuras modificaciones y mejoras del sistema por parte de otros desarrolladores o equipos.
->>* El sistema debe garantizar la confidencialidad de los datos personales de los pacientes, almacenando y gestionando la información de manera segura.
+>* El software debe ser capaz de gestionar grandes volúmenes de datos sin retrasos.
+>* El tiempo de respuesta al agregar o modificar un paciente en el sistema debe ser inmediato.
+>* El sistema debe ser fácil de usar para el personal de la EPS, aún cuando no cuenten con conocimientos técnicos.
+>* La interfaz de consola debe ser clara y permitir la navegación intuitiva en cualquier funcionalidad del software.
+>* El sistema debe asegurar la integridad de los datos, evitando pérdidas de información durante el registro y la exportación de datos.
+>* Debe ser resistente a fallos, con mecanismos para manejar errores como la falta de conexión a los datos del repositorio o fallas en la exportación de archivos CSV.
+>* El software debe ser escalable para poder integrarse en un futuro con otros sistemas de la EPS.
+>* El programa debe ser compatible con diferentes versiones de Python y ejecutarse en distintos sistemas operativos (Windows, macOS, Linux) sin requerir configuraciones complejas.
+>* El código debe estar bien documentado y organizado para facilitar futuras modificaciones y mejoras del sistema por parte de otros desarrolladores o equipos.
+>* El sistema debe garantizar la confidencialidad de los datos personales de los pacientes, almacenando y gestionando la información de manera segura.
 
 ## **7.	Plan de proyecto**
 
