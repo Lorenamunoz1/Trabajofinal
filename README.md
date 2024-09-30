@@ -197,7 +197,7 @@ Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del
 # Actividades 
 Tenemos las siguientes actividades proyectadas, en donde el presupuesto es de 70 horas a implementar en el desarrollo del trabajo, ya que somos 2 integrantes en el equipo, seria por cada uno 35 horas aportadas y de acuerdo al salario minimo en Colombia vigente que es $1.300.000 mil pesos y teniendo presente que se trabajan actualmente 46 horas semanales y al mes 184 horas, el salario lo dividimos en las horas mensuales para sacar el valor de la hora, siendo este de $7.065 mil pesos y este lo multiplicamos por el presupuesto dando como resultado $494.550 mil pesos en total y para cada integrante $247.275 mil pesos.
 
-# @markdown ### Usar el código a continuación para crear el diagrama de Gantt por Tarea
+```python
 import plotly.express as px
 import pandas as pd
 
@@ -223,19 +223,4 @@ fig = px.timeline(
     category_orders={'Tarea': sorted(df['Tarea'].tolist(), reverse=True)}  # Aligned with x_start and enclosed within the function call
 )
 fig.update_yaxes(autorange="reversed")
-fig.show()
-
-import plotly.express as px
-import pandas as pd
-df = pd.DataFrame([
-    dict(Tarea="Tarea 1", FechaInicio='2024-08-01', FechaFin='2024-08-15', Responsable="Bruce Wayne"),
-    dict(Tarea="Tarea 2", FechaInicio='2024-08-16', FechaFin='2024-08-30', Responsable="Clark Kent"),
-    dict(Tarea="Tarea 3", FechaInicio='2024-09-01', FechaFin='2024-09-15', Responsable="Clark Kent"),
-    dict(Tarea="Tarea 4", FechaInicio='2024-09-16', FechaFin='2024-09-30', Responsable="Bruce Wayne"),
-    dict(Tarea="Tarea 5", FechaInicio='2024-10-01', FechaFin='2024-10-15', Responsable="Clark Kent"),
-    dict(Tarea="Tarea 6", FechaInicio='2024-10-16', FechaFin='2024-10-30', Responsable="Wonder Woman"),
-    dict(Tarea="Tarea 7", FechaInicio='2024-11-01', FechaFin='2024-11-15', Responsable="Bruce Wayne"),
-    dict(Tarea="Tarea 8", FechaInicio='2024-11-16', FechaFin='2024-11-30', Responsable="Wonder Woman")
-])
-fig = px.timeline(df, x_start="FechaInicio", x_end="FechaFin", y="Responsable", color="Responsable")
 fig.show()
