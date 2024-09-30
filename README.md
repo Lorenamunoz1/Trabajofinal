@@ -3,13 +3,13 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Programacion" height="135px" src="https://i.ibb.co/9HyFj2x/Whats-App-Image-2024-09-29-at-12-50-22.jpg" alt="Whats-App-Image-2024-09-29-at-12-50-22" hspace="10px" vspace="0px">
+                <img alt="Asistec" height="135px" src="https://i.ibb.co/9HyFj2x/Whats-App-Image-2024-09-29-at-12-50-22.jpg" alt="Whats-App-Image-2024-09-29-at-12-50-22" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
             </td>
             <td rowspan="3">
-                <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
+                <img alt="Udea" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="0px" vspace="0px">
             </td>
         </tr>
         <tr>
@@ -122,15 +122,15 @@ Describir el proyecto en pocas líneas y asignarle un nombre con una foto repres
 
 **Asistec** 
 
-C:\Users\LORE\Downloads\WhatsApp Image 2024-09-29 at 12.50.22.jpeg
+<img alt="Programacion" height="250px" src="https://i.ibb.co/9HyFj2x/Whats-App-Image-2024-09-29-at-12-50-22.jpg" alt="Whats-App-Image-2024-09-29-at-12-50-22" hspace="20px" vspace="0px">
+            </td>
+            <td align="center">
 
 Es un proyecto el cual busca asistir a las entidades prestadoras de salud en la gestión y asignación de citas, esto con el fin de ser más eficientes en todo este proceso y disminuir la brecha de tiempo y de errores cometidos por el personal.
 
 ## **4.	Licencia del software**
 
 Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
-
-Esta obra está marcada con CC0 1.0 adiós ​ 
 
 <p xmlns:cc="http://creativecommons.org/ns#" >Esta obra está marcada con <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="licencia noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
