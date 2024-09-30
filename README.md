@@ -194,8 +194,31 @@ Describe los requisitos funcionales y no funcionales del software.
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
 *   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
 
+# Actividades 
+Tenemos las siguientes actividades proyectadas, en donde el presupuesto es de 70 horas a implementar en el desarrollo del trabajo, ya que somos 2 integrantes en el equipo, seria por cada uno 35 horas aportadas y de acuerdo al salario minimo en Colombia vigente que es $1.300.000 mil pesos y teniendo presente que se trabajan actualmente 46 horas semanales y al mes 184 horas, el salario lo dividimos en las horas mensuales para sacar el valor de la hora, siendo este de $7.065 mil pesos y este lo multiplicamos por el presupuesto dando como resultado $494.550 mil pesos en total y para cada integrante $247.275 mil pesos.
 
-
+df = pd.DataFrame([
+    dict(Tarea="Revisar y analizar cada uno de los requisitos y exigencias del software", FechaInicio='2024-09-20', FechaFin='2024-09-29', Responsable='Sebastian'),
+    dict(Tarea="Diseñar la estructura, funcionalidades y parte estetica del software", FechaInicio='2024-09-20', FechaFin='2024-11-22', Responsable='Lorena'),
+    dict(Tarea="Clonar el repositorio inicial", FechaInicio='2024-09-24', FechaFin='2024-09-24', Responsable='Lorena'),
+    dict(Tarea="Desarrollar las funciones para la gestion de turnos y el registro de pacientes", FechaInicio='2024-10-01', FechaFin='2024-10-20', Responsable='Sebastian'),
+    dict(Tarea="Programar el registro de datos en DataFrame y exportación a archivos CSV", FechaInicio='2024-10-15', FechaFin='2024-10-30', Responsable='Lorena'),
+    dict(Tarea="Probar el software y corregir errores", FechaInicio='2024-11-01', FechaFin='2024-11-22', Responsable='Lorena'),
+    dict(Tarea="Probar el software y corregir errores", FechaInicio='2024-11-01', FechaFin='2024-11-22', Responsable='Sebastian'),
+    dict(Tarea="Crear el manual del usuario", FechaInicio='2024-11-20', FechaFin='2024-11-23', Responsable='Sebastian'),
+    dict(Tarea="Crear el manual del usuario", FechaInicio='2024-11-20', FechaFin='2024-11-23', Responsable='Lorena')
+])
+df = df.sort_values(by='Tarea')
+fig = px.timeline(
+    df,
+    x_start="FechaInicio",
+    x_end="FechaFin",
+    y="Tarea",
+    color='Responsable',
+    category_orders={'Tarea': sorted(df['Tarea'].tolist(), reverse=True)}  # Ordenar las tareas alfabéticamente
+)
+fig.update_yaxes(autorange="reversed")
+fig.show()
 
 
 
