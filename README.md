@@ -197,6 +197,7 @@ Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del
 # Actividades 
 Tenemos las siguientes actividades proyectadas, en donde el presupuesto es de 70 horas a implementar en el desarrollo del trabajo, ya que somos 2 integrantes en el equipo, seria por cada uno 35 horas aportadas y de acuerdo al salario minimo en Colombia vigente que es $1.300.000 mil pesos y teniendo presente que se trabajan actualmente 46 horas semanales y al mes 184 horas, el salario lo dividimos en las horas mensuales para sacar el valor de la hora, siendo este de $7.065 mil pesos y este lo multiplicamos por el presupuesto dando como resultado $494.550 mil pesos en total y para cada integrante $247.275 mil pesos.
 
+# @markdown ### Usar el código a continuación para crear el diagrama de Gantt por Tarea
 import plotly.express as px
 import pandas as pd
 
