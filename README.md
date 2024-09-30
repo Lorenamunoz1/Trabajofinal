@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Programacion" height="200px" src="https://raw.githubusercontent.com/Lorenamunoz1/Trabajofinal/refs/heads/main/images/Trabajo%20final.png" hspace="10px" vspace="0px">
+                <img alt="Programacion" height="200px" src="https://ibb.co/1GRDxKC" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td align="center">
-                <h1><b>Asistec </b></h1>
+                <h1><b>ASISTEC </b></h1>
             </td>
         </tr>
         <tr>
