@@ -225,4 +225,17 @@ fig = px.timeline(
 fig.update_yaxes(autorange="reversed")
 fig.show()
 
-
+import plotly.express as px
+import pandas as pd
+df = pd.DataFrame([
+    dict(Tarea="Tarea 1", FechaInicio='2024-08-01', FechaFin='2024-08-15', Responsable="Bruce Wayne"),
+    dict(Tarea="Tarea 2", FechaInicio='2024-08-16', FechaFin='2024-08-30', Responsable="Clark Kent"),
+    dict(Tarea="Tarea 3", FechaInicio='2024-09-01', FechaFin='2024-09-15', Responsable="Clark Kent"),
+    dict(Tarea="Tarea 4", FechaInicio='2024-09-16', FechaFin='2024-09-30', Responsable="Bruce Wayne"),
+    dict(Tarea="Tarea 5", FechaInicio='2024-10-01', FechaFin='2024-10-15', Responsable="Clark Kent"),
+    dict(Tarea="Tarea 6", FechaInicio='2024-10-16', FechaFin='2024-10-30', Responsable="Wonder Woman"),
+    dict(Tarea="Tarea 7", FechaInicio='2024-11-01', FechaFin='2024-11-15', Responsable="Bruce Wayne"),
+    dict(Tarea="Tarea 8", FechaInicio='2024-11-16', FechaFin='2024-11-30', Responsable="Wonder Woman")
+])
+fig = px.timeline(df, x_start="FechaInicio", x_end="FechaFin", y="Responsable", color="Responsable")
+fig.show()
