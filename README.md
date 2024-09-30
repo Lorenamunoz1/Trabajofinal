@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Programacion" height="200px" src="https://ibb.co/1GRDxKC" hspace="10px" vspace="0px">
+                <img alt="Programacion" height="200px" a href="https://ibb.co/1GRDxKC"><img src="https://i.ibb.co/9HyFj2x/Whats-App-Image-2024-09-29-at-12-50-22.jpg" alt="Whats-App-Image-2024-09-29-at-12-50-22" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
